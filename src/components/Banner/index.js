@@ -2,12 +2,11 @@ import React from 'react';
 
 import { Container } from './styles';
 
-import Banner from '../../components/Banner/index';
-
-export default function Home() {
+export default function Banner() {
     return (
         <Container>
-            <Banner />
+            <h1>Leonardo Henrique Lopes</h1>
+            <h2>Desenvolvimento Web</h2>
         </Container>
     );
 }
