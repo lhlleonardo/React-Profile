@@ -8,10 +8,10 @@ export const Container = styled.div`
     align-content: center;
     align-items: center;
 
-    margin-top: -50px;
+    margin-top: -120px;
 
     max-width: 320px;
-    height: 680px;
+    height: 690px;
 
     border-radius: 30px;
 
@@ -26,7 +26,7 @@ export const Container = styled.div`
             max-width: 180px;
             border-radius: 30px;
             border: 1px solid #000;
-            margin-top: -25px;
+            margin-top: -30px;
         }
 
         strong {
@@ -46,7 +46,7 @@ export const Container = styled.div`
 
             margin-top: 5px;
             color: #3a3a3a;
-            font-size: 12px;
+            font-size: 13px;
             padding: 10px;
         }
     }

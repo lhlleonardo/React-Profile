@@ -42,11 +42,11 @@ export const Container = styled.div`
             small {
                 font-size: 12px;
                 color: #929aab;
-                margin-top: 3px;
+                margin-top: 2px;
             }
 
             span {
-                margin-top: 3px;
+                margin-top: 7px;
                 font-size: 14px;
                 color: #2f2f2f;
             }

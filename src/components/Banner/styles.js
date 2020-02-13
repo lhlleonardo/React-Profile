@@ -7,7 +7,7 @@ export const Container = styled.div`
     justify-content: center;
 
     height: 300px;
-    background: #7a26bc;
+    background: #191920;
     color: #fff;
 
     h1 {
